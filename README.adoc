@@ -1,0 +1,18 @@
+= Cupertino8 and NeoCupertino8
+
+== Installing
+
+ $ git clone https://github.com/rondelli/c8.git
+ $ mkdir ~/.icewm/themes
+ $ mv {,Neo}Cupertino8  ~/.icewm/themes
+
+== Settings
+
+You can change the default start icon:
+
+$ cd ~/.icewm/themes/Cupertino8/taskbar
+$ rm -i start.xpm
+$ ln -s start-tux.xpm start.xpm # for a Tux start icon
+$ ln -s start-puffy.xpm start.xpm # for a Puffy start icon
+
+You can replace `Cupertino` with `NeoCupertino8`.
