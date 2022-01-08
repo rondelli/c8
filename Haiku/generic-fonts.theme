@@ -1,0 +1,129 @@
+ThemeDescription="Haiku-like style theme"
+ThemeAuthor="Hernán Rondelli"
+License="BSD-3-Clause"
+Look=flat
+
+TitleBarHeight=24
+TitleBarJustify=50
+TitleBarVertOffset=-4
+TitleButtonsSupported="xm"
+TitleButtonsLeft="x"
+TitleButtonsRight="m"
+RolloverButtonsSupported=0
+
+BorderSizeX=6
+BorderSizeY=6
+DlgBorderSizeX=6
+DlgBorderSizeY=6
+
+TrayDrawBevel=0
+
+QuickSwitchHorzMargin=4
+QuickSwitchVertMargin=4
+QuickSwitchIconMargin=4
+QuickSwitchIconBorder=2
+QuickSwitchSeparatorSize=0
+
+Gradients="buttonA.xpm buttonI.xpm taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm toolbuttonbg.xpm workspacebuttonactive.xpm workspacebuttonbg.xpm"
+
+ColorApm="rgb:E0/E0/E0"
+ColorApmGraphBg="rgb:AA/AA/AA"
+ColorApmBattery="rgb:55/55/55"
+ColorApmLine="rgb:00/FF/00"
+
+ColorClock="rgb:E0/E0/E0"
+ColorClockText="rgb:00/00/00"
+
+ColorQuickSwitch="rgb:E0/E0/E0"
+ColorQuickSwitchText="rgb:00/00/00"
+ColorQuickSwitchActive="rgb:A3/A3/A3"
+
+ColorNormalBorder="rgb:E0/E0/E0"
+ColorActiveBorder="rgb:E0/E0/E0"
+ColorNormalButton="rgb:E0/E0/E0"
+ColorNormalButtonText="rgb:00/00/00"
+
+# Debugging
+ColorActiveButton="rgb:FF/00/00"     #???
+ColorActiveButtonText="rgb:00/FF/00" #???
+
+ColorNormalTitleBar="rgb:E0/E0/E0"
+ColorNormalTitleBarText="rgb:6E/6E/6E"
+ColorNormalTitleBarShadow=""
+ColorActiveTitleBar="rgb:FF/cb/00"
+ColorActiveTitleBarText="rgb:00/00/00"
+ColorActiveTitleBarShadow=""
+ColorNormalMenu="rgb:E0/E0/E0"
+ColorNormalMenuItemText="rgb:00/00/00"
+ColorActiveMenuItem="rgb:A3/A3/A3"
+ColorActiveMenuItemText="rgb:00/00/00"
+ColorDisabledMenuItemText="rgb:80/80/80"
+ColorDisabledMenuItemShadow=""
+ColorMoveSizeStatus="rgb:F6/F6/F6"
+ColorMoveSizeStatusText="rgb:00/00/00"
+ColorDefaultTaskBar="rgb:E0/E0/E0"
+ColorNormalTaskBarApp="rgb:E0/E0/E0"
+ColorNormalTaskBarAppText="rgb:00/00/00"
+ColorActiveTaskBarApp="rgb:A3/A3/A3"
+ColorActiveTaskBarAppText="rgb:00/00/00"
+ColorMinimizedTaskBarApp="rgb:E0/E0/E0"
+ColorMinimizedTaskBarAppText="rgb:80/80/80"
+ColorInvisibleTaskBarApp="rgb:E0/E0/E0"
+ColorInvisibleTaskBarAppText="rgb:80/80/80"
+ColorNormalWorkspaceButton="rgb:E0/E0/E0"
+ColorNormalWorkspaceButtonText="rgb:80/80/80"
+ColorActiveWorkspaceButton="rgb:A3/A3/A3"
+ColorActiveWorkspaceButtonText="rgb:00/00/00"
+ColorScrollBar="rgb:C6/C6/C6"
+ColorScrollBarSlider="rgb:E8/E8/E8"
+ColorScrollBarButton="rgb:E8/E8/E8"
+ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorScrollBarInactiveArrow="rgb:00/00/00"
+ColorDialog="rgb:E0/E0/E0"
+ColorToolButton="rgb:E0/E0/E0"
+ColorToolButtonText="rgb:00/00/00"
+ColorToolTip="rgb:F6/F6/F6"
+ColorToolTipText="rgb:00/00/00"
+ColorListBox="rgb:E0/E0/E0"
+ColorListBoxText="rgb:00/00/00"
+ColorListBoxSelection="rgb:A3/A3/A3"
+ColorListBoxSelectionText="rgb:00/00/00"
+ColorLabel="rgb:E0/E0/E0"
+ColorLabelText="rgb:00/00/00"
+ColorInput="rgb:00/00/00"
+ColorInputText="rgb:00/FF/00"
+ColorInputSelection="rgb:00/FF/00"
+ColorInputSelectionText="rgb:00/00/00"
+
+DesktopBackgroundCenter=1
+DesktopBackgroundScaled=1
+
+# DesktopBackgroundImage="Wallpaper.jpg"
+
+DesktopBackgroundColor="rgb:33/66/98"
+DesktopTransparencyColor="rgb:33/66/98" #???
+
+TitleFontNameXft="sans-serif:size=10"
+MenuFontNameXft="sans-serif:size=10"
+StatusFontNameXft="sans-serif:size=10"
+NormalButtonFontNameXft="sans-serif:size=10"
+ActiveButtonFontNameXft="sans-serif:size=12" #???
+NormalTaskBarFontNameXft="sans-serif:size=10"
+ActiveTaskBarFontNameXft="sans-serif:size=10"
+
+# Debugging
+MinimizedWindowFontNameXft="sans-serif:size=10" #???
+ToolButtonFontNameXft="sans-serif:size=20" #???
+
+NormalWorkspaceFontNameXft="sans-serif:size=10"
+ActiveWorkspaceFontNameXft="sans-serif:size=10"
+ClockFontNameXft="sans-serif:size=10"
+ListBoxFontNameXft="sans-serif:size=10"
+QuickSwitchFontNameXft="sans-serif:size=10"
+ToolTipFontNameXft="sans-serif:size=10"
+
+# Debugging
+ApmFontNameXft="sans-serif:size=20" #???
+
+InputFontNameXft="monospace:size=11"
+LabelFontNameXft="sans-serif:size=10"
