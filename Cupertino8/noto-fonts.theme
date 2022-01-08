@@ -82,11 +82,8 @@ ColorScrollBar="rgb:AA/AA/AA"
 ColorScrollBarSlider="rgb:9E/8E/FF"
 ColorScrollBarButton="rgb:DD/DD/DD"
 ColorScrollBarButtonArrow="rgb:00/00/00"
+ColorScrollBarInactiveArrow="rgb:00/00/00"
 ColorDialog="rgb:DD/DD/DD"
-
-# Debugging
-ColorDialogSelectionText="rgb:FF/00/00" #???
-
 ColorToolButton="rgb:DD/DD/DD"
 ColorToolButtonText="rgb:00/00/00"
 ColorToolTip="rgb:EE/EE/EE"
