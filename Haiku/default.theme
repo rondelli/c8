@@ -103,27 +103,27 @@ DesktopBackgroundScaled=1
 DesktopBackgroundColor="rgb:33/66/98"
 DesktopTransparencyColor="rgb:33/66/98" #???
 
-TitleFontNameXft="noto sans cjk jp:regular:size=10"
-MenuFontNameXft="noto sans cjk jp:light:size=10"
-StatusFontNameXft="noto sans cjk jp:light:size=10"
-NormalButtonFontNameXft="noto sans cjk jp:light:size=10"
-ActiveButtonFontNameXft="noto sans cjk jp:light:size=12" #???
-NormalTaskBarFontNameXft="noto sans cjk jp:light:size=10"
-ActiveTaskBarFontNameXft="noto sans cjk jp:light:size=10"
+TitleFontNameXft="noto sans:regular:size=10"
+MenuFontNameXft="noto sans:regular:size=10"
+StatusFontNameXft="noto sans:regular:size=10"
+NormalButtonFontNameXft="noto sans:regular:size=10"
+ActiveButtonFontNameXft="noto sans:regular:size=12" #???
+NormalTaskBarFontNameXft="noto sans:regular:size=10"
+ActiveTaskBarFontNameXft="noto sans:regular:size=10"
 
 # Debugging
-MinimizedWindowFontNameXft="noto sans cjk jp:light:size=10" #???
-ToolButtonFontNameXft="noto sans cjk jp:light:size=20" #???
+MinimizedWindowFontNameXft="noto sans:regular:size=10" #???
+ToolButtonFontNameXft="noto sans:regular:size=20" #???
 
-NormalWorkspaceFontNameXft="noto sans cjk jp:light:size=10"
-ActiveWorkspaceFontNameXft="noto sans cjk jp:light:size=10"
-ClockFontNameXft="noto sans cjk jp:light:size=10"
-ListBoxFontNameXft="noto sans cjk jp:light:size=10"
-QuickSwitchFontNameXft="noto sans cjk jp:light:size=10"
-ToolTipFontNameXft="noto sans cjk jp:light:size=10"
+NormalWorkspaceFontNameXft="noto sans:regular:size=10"
+ActiveWorkspaceFontNameXft="noto sans:regular:size=10"
+ClockFontNameXft="noto sans:regular:size=10"
+ListBoxFontNameXft="noto sans:regular:size=10"
+QuickSwitchFontNameXft="noto sans:regular:size=10"
+ToolTipFontNameXft="noto sans:regular:size=10"
 
 # Debugging
-ApmFontNameXft="noto sans cjk jp:light:size=20" #???
+ApmFontNameXft="noto sans:regular:size=20" #???
 
 InputFontNameXft="noto mono:size=11"
-LabelFontNameXft="noto sans cjk jp:light:size=10"
+LabelFontNameXft="noto sans:regular:size=10"
