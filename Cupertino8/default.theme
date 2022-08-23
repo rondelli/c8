@@ -24,7 +24,7 @@ QuickSwitchIconMargin=4
 QuickSwitchIconBorder=2
 QuickSwitchSeparatorSize=0
 
-Gradients="buttonA.xpm buttonI.xpm taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm toolbuttonbg.xpm workspacebuttonactive.xpm workspacebuttonbg.xpm"
+Gradients="buttonA.xpm buttonI.xpm taskbarbg.xpm taskbuttonactive.xpm taskbuttonbg.xpm taskbuttonminimized.xpm toolbuttonbg.xpm workspacebuttonactive.xpm workspacebuttonbg.xpm"
 
 ColorApm="rgb:DD/DD/DD"
 ColorApmGraphBg="rgb:AA/AA/AA"
