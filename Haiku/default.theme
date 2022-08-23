@@ -125,5 +125,5 @@ ToolTipFontNameXft="noto sans:regular:size=10"
 # Debugging
 ApmFontNameXft="noto sans:regular:size=20" #???
 
-InputFontNameXft="noto mono:size=11"
+InputFontNameXft="cascadia mono pl:size=10"
 LabelFontNameXft="noto sans:regular:size=10"

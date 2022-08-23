@@ -107,27 +107,27 @@ DesktopBackgroundScaled=1
 DesktopBackgroundColor="rgb:94/94/FF"
 DesktopTransparencyColor="rgb:94/94/FF" #???
 
-TitleFontNameXft="sans-serif:size=10"
-MenuFontNameXft="sans-serif:size=10"
-StatusFontNameXft="sans-serif:size=10"
-NormalButtonFontNameXft="sans-serif:size=10"
-ActiveButtonFontNameXft="sans-serif:size=10"
-NormalTaskBarFontNameXft="sans-serif:size=10"
-ActiveTaskBarFontNameXft="sans-serif:size=10"
+TitleFontNameXft="noto sans:regular:size=10"
+MenuFontNameXft="noto sans:regular:size=10"
+StatusFontNameXft="noto sans:regular:size=10"
+NormalButtonFontNameXft="noto sans:regular:size=10"
+ActiveButtonFontNameXft="noto sans:regular:size=10"
+NormalTaskBarFontNameXft="noto sans:regular:size=10"
+ActiveTaskBarFontNameXft="noto sans:regular:size=10"
 
 # Debugging
-MinimizedWindowFontNameXft="sans-serif:size=10" #???
-ToolButtonFontNameXft="sans-serif:size=20" #???
+MinimizedWindowFontNameXft="noto sans:regular:size=10" #???
+ToolButtonFontNameXft="noto sans:regular:size=20" #???
 
-NormalWorkspaceFontNameXft="sans-serif:size=10"
-ActiveWorkspaceFontNameXft="sans-serif:size=10"
-ClockFontNameXft="sans-serif:size=10"
-ListBoxFontNameXft="sans-serif:size=10"
-QuickSwitchFontNameXft="sans-serif:size=10"
-ToolTipFontNameXft="sans-serif:size=10"
+NormalWorkspaceFontNameXft="noto sans:regular:size=10"
+ActiveWorkspaceFontNameXft="noto sans:regular:size=10"
+ClockFontNameXft="noto sans:regular:size=10"
+ListBoxFontNameXft="noto sans:regular:size=10"
+QuickSwitchFontNameXft="noto sans:regular:size=10"
+ToolTipFontNameXft="noto sans:regular:size=10"
 
 # Debugging
-ApmFontNameXft="sans-serif:size=20" #???
+ApmFontNameXft="noto sans:regular:size=20" #???
 
-InputFontNameXft="monospace:size=10"
-LabelFontNameXft="sans-serif:size=10"
+InputFontNameXft="cascadia mono pl:size=10"
+LabelFontNameXft="noto sans:regular:size=10"
