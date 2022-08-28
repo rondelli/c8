@@ -3,6 +3,7 @@
 == Installing
 
  $ git clone https://github.com/rondelli/c8.git
+ $ cd c8
  $ mkdir -p ~/.icewm/themes
  $ mv {,Neo}Cupertino8 Haiku ~/.icewm/themes
 
